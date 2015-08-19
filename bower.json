@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "angular": "~1.4.4",
-    "jasmine-core": "~2.3.4"
+    "jasmine-core": "~2.3.4",
+    "angular-mocks": "~1.4.4"
   }
 }
